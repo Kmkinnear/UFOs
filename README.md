@@ -20,8 +20,10 @@ To activate the filter, the user will simply need to enter their search criteria
 
 <img width="404" alt="image" src="https://user-images.githubusercontent.com/110848660/204862956-9ad443c8-3ec8-496d-9dc2-fda97c3258b9.png">
 
+To initiate a new search, the user would either need to reload the .html document or click the "UFO Sightings" headline in the top corner of the webpage.
+
 ## Summary
 
 One drawback of using this new design is that we removed the "Filter" button which may confuse some users that have not used the page before. A button is a clean way to have the user filter the data without leaving them to try and figure out how to initiate the filter. In our current design, we are unly able to filter it by clicking in the webpage or having the user click the "Enter" key. There are also no instructions for the user on how to initiate the filter which leaves them to try and figure it out on their own. 
 
-One recommendation that I have to improve the site is going back to using a "Filter" button to eliminate the guesswork for the user of how to initiate the filter. This would allow for a simplified approach for how to get your filtered data on the webpage. Another recommendation that I have is to put an instructional note on the webpage with how to run the filter function on the website. That would allow the user to know that they would need to enter the search criteria and either click outside the filter area or press the "Enter" key to filter the data.
+One recommendation that I have to improve the site is going back to using a "Filter" button to eliminate the guesswork for the user of how to initiate the filter. This would allow for a simplified approach for how to get your filtered data on the webpage. Another recommendation that I have is to put an instructional note on the webpage with how to run the filter function on the website. That would allow the user to know that they would need to enter the search criteria and either click outside the filter area or press the "Enter" key to filter the data. You can also enter information on how to initiate a new search.
